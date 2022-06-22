@@ -130,6 +130,13 @@ a:hover {
     color: white;
     text-decoration: underline;
 }
+
+@media(max-width: 800px){
+    #content{
+        height: 150vh;
+    }
+}
+
 @media(max-width: 400px){
     #content{
         height: 100vh;
