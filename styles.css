@@ -131,6 +131,12 @@ a:hover {
     text-decoration: underline;
 }
 
+@media(max-width:900px){
+     #content{
+        height: 300vh
+     }
+}
+
 @media(max-width: 500px){
     #content{
         height: 320vh;
