@@ -133,7 +133,11 @@ a:hover {
 
 @media(max-width: 400px){
     #content{
-        height: 150vh;
+        height: 200vh;
+        /* opacity: 0.98; */
+    }
+    #container{
+        opacity: 0.9;
     }
 }
 
