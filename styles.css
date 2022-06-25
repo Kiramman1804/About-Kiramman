@@ -133,7 +133,7 @@ a:hover {
 
 @media(max-width:900px){
      #content{
-        height: 300vh
+        height: 300vh;
      }
 }
 
