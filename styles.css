@@ -112,7 +112,7 @@ h2{
 .section_body{
     /* vertical-align: baseline; */
     text-align: left;
-    text-indent: 20px;
+    /* text-indent: 20px; */
     font-size: 15px;
 }
 
